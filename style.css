@@ -1,4 +1,12 @@
-  turquoise: #07beb8;
+body {
+  background: turquoise;
+}
+
+h1 {
+  color: hotpink;
+}
+
+/*  turquoise: #07beb8;
   bright-orange: #ff6501;
   charcoal: #272727;
 
@@ -84,4 +92,4 @@ body{
         -webkit-filter: grayscale(0%);
         filter: grayscale(0%);
     }
-}
+}*/
